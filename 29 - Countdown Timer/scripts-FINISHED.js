@@ -58,4 +58,4 @@ document.customForm.addEventListener("submit", function (e) {
 	this.reset();
 });
 
-console.log("testing");
+// console.log("testing");
